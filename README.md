@@ -1,7 +1,3 @@
-Claro! Aqui está a tradução e adaptação com um tom mais personalizado e informal, com a sua cara:
-
----
-
 # 💬 Demo de Agente de Atendimento ao Cliente
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -129,7 +125,3 @@ Achou que pode melhorar algo? Abra uma issue ou envie um PR! Só não garanto qu
 ## 📄 Licença
 
 Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Se quiser, posso gerar o `README.md` pronto com esse conteúdo, formatado e com links corrigidos. Deseja?
